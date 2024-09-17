@@ -23,5 +23,8 @@
 2. Use `pip` command to install the imported libraries
 3. Go to terminal , use `cd <location_of_file>` to go to the directory
 4. Run `python dfa2cfg.py`
+
+##### Sample output:
+![sample output](sample_output.png)
   
    
